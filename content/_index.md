@@ -3,17 +3,24 @@ title = "OpenMolcas Developers' Workshop"
 sort_by = "weight"
 +++
 
-The 7th Annual OpenMolcas Developers’ Workshop took place on June 12 - 14, 2019
-at the University of Minnesota, in Minneapolis, MN. 
 
-The workshop brought together OpenMolcas developers to discuss the latest
-features of the code and new directions. Some of the challenging topics of
-modern electronic structure theories for strongly correlated materials were
-highlighted. 
+We are pleased to announce the **10th edition** of the OpenMolcas workshop,
+bringing together the community of developers, users, and anyone else
+interested in the project. This year the workshop is hosted by the Quantum
+Chemistry Group at Uppsala University and we are very excited to announce that
+we have partnered up with [T-REX](https://trex-coe.eu/) and
+[ENCSS](https://enccs.se/), which will help us with the organization, but most
+importantly will contribute to the scientific part as well!  
 
-The workshop started on Wednesday the 12th of June after lunch and consisted of
-a mixture of technical and scientific reports from Molcas developers, scientific
-perspectives from Molcas users, and discussion sessions.
+We invite everyone to join us here in sunny Uppsala, where the workshop
+will take place, but we understand that in these uncertain times it might still
+be difficult to travel. No worries, the workshop is offered in a hybrid format,
+and anyone who registers is able to participate exclusively online.  
+
+As every year, this meeting is an opportunity for developers and users to
+present their work and discuss about the future directions of the project.
+Guest lecturers are invited as well, providing an external perspective and the
+opportunity to create new collaborations.
 
 # How to reach Uppsala
 
@@ -25,3 +32,10 @@ Det är minst lika lätt att resa mellan Uppsala och Stockholm.
 Om du vill resa med taxi så erbjuder de tre största taxibolagen i Uppsala bland
 annat fasta priser för resor mellan Uppsala och Stockholm Arlanda Airport.
 
+# Registration
+
+Please mark if you are going to participate on-site or online via zoom, the
+registration is in either case completely free of charge. In case of on-site
+participation, please mark if you would like to join the gala dinner on
+Thursday 9th June. The participants have to organize travel and accommodation
+by themeselves.
