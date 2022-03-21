@@ -18,7 +18,8 @@ highlight_code = false
 # Put all your custom variables here
 juice_logo_name = ""
 juice_logo_path = "logo.png"
+# we can use this to link to indico
 juice_extra_menu = [
-    { title = "Github", link = "https://github.com/ENCCS/openmolcas-workshop"}
+    { title = "Registration", link = "https://genrandom.com/cats/"}
 ]
 repository_url = "https://github.com/ENCCS/openmolcas-workshop"
