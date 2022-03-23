@@ -1,6 +1,5 @@
 +++
 title = "Venue"
-description = "Venue"
 weight = 1
 +++
 

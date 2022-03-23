@@ -1,6 +1,5 @@
 +++
 title = "Registration"
-description = "Registration"
 weight = 3
 +++
 

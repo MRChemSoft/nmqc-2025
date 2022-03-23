@@ -1,6 +1,5 @@
 +++
 title = "Program"
-description = "Program"
 weight = 2
 +++
 

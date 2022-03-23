@@ -1,6 +1,5 @@
 +++
 title = "Organizers"
-description = "Organizers"
 weight = 5
 +++
 
