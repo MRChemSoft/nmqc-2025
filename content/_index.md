@@ -3,6 +3,7 @@ title = "OpenMolcas Developers' Workshop"
 sort_by = "weight"
 +++
 
+## TITLE
 
 We are pleased to announce the **10th edition** of the OpenMolcas workshop,
 bringing together the community of developers, users, and anyone else
