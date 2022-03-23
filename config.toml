@@ -7,8 +7,6 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-theme = "juice"
-
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -18,8 +16,4 @@ highlight_code = false
 # Put all your custom variables here
 juice_logo_name = ""
 juice_logo_path = "logo.png"
-# we can use this to link to indico
-juice_extra_menu = [
-    { title = "Registration", link = "https://genrandom.com/cats/"}
-]
 repository_url = "https://github.com/ENCCS/openmolcas-workshop"

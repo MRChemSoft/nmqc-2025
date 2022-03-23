@@ -1,5 +1,6 @@
 +++
 title = "OpenMolcas Developers' Workshop"
+description = "Welcome!"
 sort_by = "weight"
 +++
 
