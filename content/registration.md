@@ -10,6 +10,6 @@ For on-site participants, please mark if you would like to join the gala dinner
 on **Thursday 9th June**. The participants have to organize travel and
 accommodation themselves.
 
-You can submit your abstract to [Stefano Battaglia](mailto:stefano.battaglia@kemi.uu.se)
-
-**TODO** Insert link or embed registration form from Indico.
+<!--You can submit your abstract by e-mailing it directly to [Stefano Battaglia](mailto:stefano.battaglia@kemi.uu.se)-->
+*****
+PLease register and submit you abstract by following this link [https://events.prace-ri.eu/event/1376/registrations/1021/](https://events.prace-ri.eu/event/1376/registrations/1021/)
