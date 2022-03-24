@@ -8,6 +8,7 @@ weight = 2
 The schedule is in Central European Summer Time (UTC+2).  Click on any of the
 talks to read the corresponding abstract.
 
+<div style="overflow-x:auto;">
 <table>
 <thead>
 <tr class="header">
@@ -173,6 +174,7 @@ talks to read the corresponding abstract.
    </tr>
   </tbody>
 </table>
+</div>
 
 # Abstracts
 
