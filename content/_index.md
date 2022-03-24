@@ -1,10 +1,10 @@
 +++
 title = "OpenMolcas Developers' Workshop"
-description = "Welcome!"
 sort_by = "weight"
 insert_anchor_links = "right"
 +++
 
+## Welcome!
 We are pleased to announce the **10th edition** of the OpenMolcas workshop,
 bringing together the community of developers, users, and anyone else
 interested in the project. This year the workshop is hosted by the Quantum
