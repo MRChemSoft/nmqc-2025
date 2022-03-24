@@ -3,18 +3,18 @@
 {% block hero %}
     <script async defer src="https://buttons.github.io/buttons.js"></script>
     <section class="text-center">
-        <h1 class="heading-text" style="font-size: 50px">
+        <div class="heading-text" style="font-size: 50px">
             The 10th OpenMolcas Developers' Workshop
-        </h1>
-        <h3 class="title-text">
+        </div>
+        <div class="where-text">
             <b>Uppsala</b> 8-10 June 2022.
-        </h3>
+        </div>
     </section>
     <img class="hero-image" width="30%" type="image/png" src="{{ get_url(path=config.extra.juice_logo_path) }}">
 
     <div class="explore-more text"
         onclick="document.getElementById('features').scrollIntoView({behavior: 'smooth'})">
-        Explore More ⇩
+	    <b>Explore More ⇩</b>
     </div>
     <style>
         .hero section {
@@ -31,11 +31,3 @@
         }
     </style> 
 {% endblock hero %}
-
-{% block footer %}
-<footer>
-    <small class="subtext">
-        <a href="https://enccs.se">ENCCS</a> © 2021
-    </small>
-</footer>
-{% endblock footer %}

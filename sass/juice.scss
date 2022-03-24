@@ -65,11 +65,16 @@ header {
 }
 
 .hero {
+  background: url('C11528.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: rgba(255, 255, 255, 1); //var(--primary-color);
   display: flex;
+  text-shadow: 1px 2px 8px rgba(255, 255, 255, 1);
   align-items: center;
   justify-content: space-evenly;
   height: 100vh;
-  background-color: var(--primary-color);
   overflow-x: hidden;
   padding: 0 40px;
 
