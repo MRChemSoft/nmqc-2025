@@ -3,6 +3,8 @@ title = "Organizers"
 weight = 5
 +++
 
+The organizing committee:
+
 * [Roland Lindh](mailto:roland.lindh@kemi.uu.se)
 * [Stefano Battaglia](mailto:stefano.battaglia@kemi.uu.se)
 * [Ignacio Fernandez Galván](mailto:ignacio.fernandez@kemi.uu.se)

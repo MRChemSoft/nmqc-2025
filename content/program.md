@@ -3,55 +3,6 @@ title = "Program"
 weight = 2
 +++
 
-## Timetable
-
-| Time  | Wednesday June 8, 2022 | Thursday June 9, 2022  | Friday June 10, 2022 |
-|:----: |:--------------------:  |:--------------------:  |:------------------:  |
-| foo   |     foo                |        bar             |    foo               |
-|       |                        |                        |                      |
-|       |                        |                        |                      |
-|       |                        |                        |                      |
-|       |                        |                        |                      |
-|       |                        |                        |                      |
-
-
-<div id="multiprogram">
-
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: center;"></th>
-<th colspan="8" style="text-align: center;">Sets</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">7</td>
-<td style="text-align: center;">8</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">astar</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">*</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">*</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">*</td>
-<td style="text-align: center;"></td>
-</tr>
-</tbody>
-</table>
-
-</div>
-
 <table border="1" style="">
 <thead>
 <tr class="header">
@@ -211,4 +162,3 @@ weight = 2
   </tbody>
 </table>
 
-## Abstracts

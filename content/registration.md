@@ -10,5 +10,6 @@ For on-site participants, please mark if you would like to join the gala dinner
 on **Thursday 9th June**. The participants have to organize travel and
 accommodation themselves.
 
+You can submit your abstract to [Stefano Battaglia](mailto:stefano.battaglia@kemi.uu.se)
 
 **TODO** Insert link or embed registration form from Indico.
