@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://enccs.github.io/openmolcas-workshop"
+base_url = "https://enccs.github.io/openmolcas-2022"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -16,4 +16,4 @@ highlight_code = false
 # Put all your custom variables here
 juice_logo_name = ""
 juice_logo_path = "logo.png"
-repository_url = "https://github.com/ENCCS/openmolcas-workshop"
+repository_url = "https://github.com/ENCCS/openmolcas-2022"
