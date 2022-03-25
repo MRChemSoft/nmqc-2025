@@ -3,7 +3,7 @@ title = "Program"
 weight = 2
 +++
 
-## Timetable
+<!-- ## Timetable
 
 The schedule is in Central European Summer Time (UTC+2).  Click on any of the
 talks to read the corresponding abstract.
@@ -188,4 +188,4 @@ On this very important topic!
 
 $$
  F_{n}(T) = \int_{0}^{1} x^{2n}\exp(-Tx^{2})\mathrm{d}x
-$$
+$$ -->
