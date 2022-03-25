@@ -14,4 +14,4 @@ accommodation themselves.
 
 *****
 
-Please register and submit your abstract by following [this link](https://events.prace-ri.eu/event/1376/registrations/1021/).
+Please register and submit your abstract by following <a href="https://events.prace-ri.eu/event/1376/registrations/1021" target="_blank">this link</a>.
