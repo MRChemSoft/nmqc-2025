@@ -12,5 +12,5 @@ The organizing committee:
 For questions, please contact us at [stefano.battaglia@kemi.uu.se](mailto:stefano.battaglia@kemi.uu.se)
 
 
-This website is built using the [Zola](https://www.getzola.org/) static site
-generator and a modified version of the [Juice theme](https://juice.huhu.io/).
+This website is built using the <a href="https://www.getzola.org" target="_blank">Zola</a> static site
+generator and a modified version of the <a href="https://juice.huhu.io" target="_blank">Juice theme</a>.
