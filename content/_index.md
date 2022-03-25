@@ -9,7 +9,7 @@ We are pleased to announce the **10th edition** of the OpenMolcas developers' wo
 bringing together the community of developers, users, and anyone else
 interested in the project. This year the workshop is hosted by the Quantum
 Chemistry Group at Uppsala University and we are very excited to announce that
-we have partnered up with <a href="https://trex-coe.eu/" target="_blank">T-REX</a> and
+we have partnered up with <a href="https://trex-coe.eu/" target="_blank">TREX</a> and
 <a href="https://enccs.se/" target="_blank">ENCSS</a>, which will help us with the organization, but most
 importantly will contribute to the scientific part as well!
 
