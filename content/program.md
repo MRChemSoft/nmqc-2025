@@ -178,14 +178,3 @@ talks to read the corresponding abstract.
 
 # Abstracts
 
-## My talk {#my-talk}
-
-On this very important topic!
-
-## Other talk {#other-talk}
-
-On this very important topic!
-
-$$
- F_{n}(T) = \int_{0}^{1} x^{2n}\exp(-Tx^{2})\mathrm{d}x
-$$
