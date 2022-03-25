@@ -144,7 +144,7 @@ Preliminary program.
       <!-- Day 1 -->
       <td>Invited</td>
       <!-- Day 2 -->
-      <td rowspan="4">Free afternoon</td>
+      <td rowspan="3">Free afternoon</td>
       <!-- Day 3 -->
       <td>Contributed</td>
    </tr>
@@ -167,19 +167,11 @@ Preliminary program.
    <tr style="text-align: center;">
       <td>16:30</td>
       <!-- Day 1 -->
-      <td rowspan="2">Poster session?</td>
-      <!-- Day 2 -->
-      <!-- Day 3 -->
-      <td>Closing remarks</td>
-   </tr>
-   <tr style="text-align: center;">
-      <td></td>
-      <!-- Day 1 -->
-      <td></td>
+      <td>Poster session</td>
       <!-- Day 2 -->
       <td>Gala dinner</td>
       <!-- Day 3 -->
-      <td></td>
+      <td>Closing remarks</td>
    </tr>
   </tbody>
 </table>
