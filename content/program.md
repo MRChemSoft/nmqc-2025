@@ -175,7 +175,6 @@ Preliminary program.
    <tr style="text-align: center;">
       <td></td>
       <!-- Day 1 -->
-      <td></td>
       <!-- Day 2 -->
       <td>Gala dinner</td>
       <!-- Day 3 -->
