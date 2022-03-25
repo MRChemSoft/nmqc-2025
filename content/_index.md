@@ -5,7 +5,7 @@ sort_by = "weight"
 insert_anchor_links = "right"
 +++
 
-We are pleased to announce the **10th edition** of the OpenMolcas workshop,
+We are pleased to announce the **10th edition** of the OpenMolcas developers' workshop,
 bringing together the community of developers, users, and anyone else
 interested in the project. This year the workshop is hosted by the Quantum
 Chemistry Group at Uppsala University and we are very excited to announce that

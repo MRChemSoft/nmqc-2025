@@ -7,7 +7,7 @@ The organizing committee:
 
 * [Roland Lindh](mailto:roland.lindh@kemi.uu.se)
 * [Stefano Battaglia](mailto:stefano.battaglia@kemi.uu.se)
-* [Ignacio Fernandez Galván](mailto:ignacio.fernandez@kemi.uu.se)
+* [Ignacio Fernández Galván](mailto:ignacio.fernandez@kemi.uu.se)
 
 For questions, please contact us at [stefano.battaglia@kemi.uu.se](mailto:stefano.battaglia@kemi.uu.se)
 

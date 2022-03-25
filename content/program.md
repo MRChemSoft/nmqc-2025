@@ -5,8 +5,9 @@ weight = 2
 
 ## Timetable
 
-The schedule is in Central European Summer Time (UTC+2).  Click on any of the
-talks to read the corresponding abstract.
+The schedule is in Central European Summer Time (UTC+2).
+<!-- Click on any of the talks to read the corresponding abstract. -->
+Preliminary program.
 
 <div style="overflow-x:auto;">
 <table>
@@ -24,7 +25,7 @@ talks to read the corresponding abstract.
       <!-- Day 1 -->
       <td rowspan="3">Check-in</td>
       <!-- Day 2 -->
-      <td><a href="#my-talk">Invited</a></td>
+      <td>Invited</td>
       <!-- Day 3 -->
       <td>Invited</td>
    </tr>
@@ -67,7 +68,7 @@ talks to read the corresponding abstract.
       <!-- Day 1 -->
       <td>Contributed</td>
       <!-- Day 2 -->
-      <td><a href="#other-talk">Contributed</a></td>
+      <td>Contributed</td>
       <!-- Day 3 -->
       <td>Contributed</td>
    </tr>
@@ -101,7 +102,7 @@ talks to read the corresponding abstract.
    <tr style="text-align: center;">
       <td>13:30</td>
       <!-- Day 1 -->
-      <td>Invited (T-REX)</td>
+      <td>Invited</td>
       <!-- Day 2 -->
       <td rowspan="4">Discussion</td>
       <!-- Day 3 -->
@@ -110,21 +111,21 @@ talks to read the corresponding abstract.
    <tr style="text-align: center;">
       <td>14:00</td>
       <!-- Day 1 -->
-      <td>Contributed (T-REX)</td>
+      <td>Contributed</td>
       <!-- Day 2 -->
       <!-- Day 3 -->
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
       <td>14:20</td>
-      <td>Contributed (T-REX)</td>
+      <td>Contributed</td>
       <!-- Day 2 Discussion -->
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
       <td>14:40</td>
       <!-- Day 1 -->
-      <td>Contributed (T-REX)</td>
+      <td>Contributed</td>
       <!-- Day 2 -->
       <!-- Day 3 -->
       <td>Contributed</td>
@@ -143,7 +144,7 @@ talks to read the corresponding abstract.
       <!-- Day 1 -->
       <td>Invited</td>
       <!-- Day 2 -->
-      <td rowspan="3">Free afternoon</td>
+      <td rowspan="4">Free afternoon</td>
       <!-- Day 3 -->
       <td>Contributed</td>
    </tr>
@@ -166,11 +167,19 @@ talks to read the corresponding abstract.
    <tr style="text-align: center;">
       <td>16:30</td>
       <!-- Day 1 -->
-      <td>Poster session?</td>
+      <td rowspan="2">Poster session?</td>
+      <!-- Day 2 -->
+      <!-- Day 3 -->
+      <td>Closing remarks</td>
+   </tr>
+   <tr style="text-align: center;">
+      <td></td>
+      <!-- Day 1 -->
+      <td></td>
       <!-- Day 2 -->
       <td>Gala dinner</td>
       <!-- Day 3 -->
-      <td>Closing remarks</td>
+      <td></td>
    </tr>
   </tbody>
 </table>

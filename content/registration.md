@@ -12,6 +12,4 @@ accommodation themselves.
 
 <!--You can submit your abstract by e-mailing it directly to [Stefano Battaglia](mailto:stefano.battaglia@kemi.uu.se)-->
 
-*****
-
 Please register and submit your abstract by following [this link](https://events.prace-ri.eu/event/1376/registrations/1021/).
