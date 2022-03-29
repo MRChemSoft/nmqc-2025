@@ -23,3 +23,6 @@ present their work and discuss about the future directions of the project.
 Guest lecturers are invited as well, providing an external perspective and the
 opportunity to create new collaborations.
 
+Whether or not your are able to attend the meeting, please note that our
+<a href="https://openmolcas.zulipchat.com/" target="_blank">Zulip</a> community is always open.
+
