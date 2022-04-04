@@ -120,8 +120,10 @@
     {% block footer %}
     <footer>
         <small class="subtext">
-            <a href="https://enccs.se" target="_blank"><img style="width: 20%" src="{{ get_url(path="ENCCS-Logo.png") }}"></a>
-            - <a href="https://trex-coe.eu" target="_blank">TREX</a> © 2022
+            <a href="https://enccs.se" target="_blank"><img src="{{ get_url(path="ENCCS-Logo.png") }}" height="60"></a>
+            <a href="https://trex-coe.eu" target="_blank"><img src="{{ get_url(path="logo-trex.png") }}" height="60" ></a> 
+            <a href="https://mp.uu.se/web/start" target="_blank"><img src="{{ get_url(path="logo-uu.png") }}" height="60" ></a>
+        
         </small>
     </footer>
     {% endblock footer %}
