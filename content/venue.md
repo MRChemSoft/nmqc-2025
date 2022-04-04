@@ -27,7 +27,7 @@ buses and trains are available on a frequent schedule:
 
 - [UL](https://www.ul.se/en) bus line 801 departs from the airport *twice* every hour during the day,
   normally from terminals 2, 3, 4, and 5.
-- Trains depart from SkyCity (between terminals 4 and 5) *twice* an hour during the dayi. Ignore the "Arlanda Express" signs.
+- Trains depart from SkyCity (between terminals 4 and 5) *twice* an hour during the day. Ignore the "Arlanda Express" signs.
 
 Please check the [Arlanda Airport](https://www.swedavia.com/arlanda/) webpage for more information,
 particularly regarding changes due to ongoing remodeling works.
