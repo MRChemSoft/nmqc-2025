@@ -16,6 +16,6 @@ Please register and submit your abstract by following <a href="https://events.pr
 
 ## Important dates
 
-- **1st May 2022**: Registration deadline for any form of presentation (in-person or online).
-- **15th May 2022**: Deadline for abstract sumbmission and registration for in-person participation.
+- **1st May 2022**: Registration deadline for any form of presentation, in-person or online (**Deadline for poster contribution has been extended to 15th of May**).
+- **15th May 2022**: Deadline for abstract sumbmission and registration for in-person participation, as well as poster contribution.
 - **7th June 2022**: Registration deadline for on-line participation.
