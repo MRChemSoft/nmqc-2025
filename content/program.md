@@ -23,32 +23,33 @@ Preliminary program.
    <tr style="text-align: center;">
       <td>9:40</td>
       <!-- Day 1 -->
-      <td rowspan="3">Check-in</td>
+      <td></td>
       <!-- Day 2 -->
-      <td>Invited</td>
+      <td>Y. Nishimoto</td>
       <!-- Day 3 -->
-      <td>Invited</td>
+      <td>G. Li Manni</td>
    </tr>
    <tr style="text-align: center;">
       <td>10:00</td>
       <!-- Day 1 -->
+      <td rowspan="2">Check-in</td>
       <!-- Day 2 -->
-      <td>Contributed</td>
+      <td>S. Knecht</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>O. Weser</td>
    </tr>
    <tr style="text-align: center;">
       <td>10:20</td>
       <!-- Day 1 -->
       <!-- Day 2 -->
-      <td>Contributed</td>
+      <td>E. Vos	</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>J. Church</td>
    </tr>
    <tr style="text-align: center;">
       <td>10:40</td>
       <!-- Day 1 -->
-      <td>Opening</td>
+      <td>Coffee & opening</td>
       <!-- Day 2 -->
       <td>Coffee break</td>
       <!-- Day 3 -->
@@ -57,38 +58,38 @@ Preliminary program.
    <tr style="text-align: center;">
       <td>11:00</td>
       <!-- Day 1 -->
-      <td>Invited</td>
+      <td>N. H. List</td>
       <!-- Day 2 -->
-      <td>Invited</td>
+      <td>D. Opalka</td>
       <!-- Day 3 -->
-      <td>Invited</td>
+      <td>G. Booth</td>
    </tr>
    <tr style="text-align: center;">
       <td>11:30</td>
       <!-- Day 1 -->
-      <td>Contributed</td>
+      <td>L. Cerdán	</td>
       <!-- Day 2 -->
-      <td>Contributed</td>
+      <td>	D. Wang</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>F. Plasser</td>
    </tr>
    <tr style="text-align: center;">
       <td>11:50</td>
       <!-- Day 1 -->
-      <td>Contributed</td>
+      <td>F. Segatta</td>
       <!-- Day 2 -->
-      <td>Contributed</td>
+      <td>R. Di Remigio</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>B. Tenorio</td>
    </tr>
    <tr style="text-align: center;">
       <td>12:10</td>
       <!-- Day 1 -->
-      <td>Contributed</td>
+      <td>E. Larsson		</td>
       <!-- Day 2 -->
-      <td>Contributed</td>
+      <td>J. Staab</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>L. Barneschi</td>
    </tr>
    <tr style="text-align: center;">
       <td>12:30</td>
@@ -102,80 +103,74 @@ Preliminary program.
    <tr style="text-align: center;">
       <td>14:00</td>
       <!-- Day 1 -->
-      <td>Invited</td>
+      <td>A. Scemama	</td>
       <!-- Day 2 -->
-      <td rowspan="4">Discussion</td>
+      <td>P.-F. Loos & M. Boggio-Pasqua</td>
       <!-- Day 3 -->
-      <td>Invited</td>
-   </tr>
-   <tr style="text-align: center;">
-      <td>14:00</td>
-      <!-- Day 1 -->
-      <td>Contributed</td>
-      <!-- Day 2 -->
-      <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>F. Agostini</td>
    </tr>
    <tr style="text-align: center;">
       <td>14:30</td>
-      <td>Contributed</td>
-      <!-- Day 2 Discussion -->
-      <td>Contributed</td>
+      <td>M. Hapka</td>
+      <td>T. Weymuth</td>
+      <td>A. Baiardi</td>
    </tr>
-   <tr style="text-align: center;">
+    <tr style="text-align: center;">
       <td>14:50</td>
       <!-- Day 1 -->
-      <td>Contributed</td>
+      <td>A. Ammar</td>
       <!-- Day 2 -->
+      <td rowspan="2">Discussion</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>V. K. Jaiswal</td>
    </tr>
+
    <tr style="text-align: center;">
       <td>15:10</td>
       <!-- Day 1 -->
-      <td>Coffee break</td>
+      <td>P. Lopez Rios</td>
       <!-- Day 2 -->
-      <td>Coffee break</td>
       <!-- Day 3 -->
-      <td>Coffee break</td>
+      <td>A. Kaiser</td>
    </tr>
    <tr style="text-align: center;">
       <td>15:30</td>
       <!-- Day 1 -->
-      <td>Invited</td>
+      <td>Coffee Break</td>
       <!-- Day 2 -->
-      <td rowspan="4">Free afternoon</td>
+      <td>Coffee Break</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>Coffee Break</td>
    </tr>
    <tr style="text-align: center;">
       <td>16:00</td>
       <!-- Day 1 -->
-      <td>Contributed</td>
+      <td>S. I. Bokarev</td>
       <!-- Day 2 -->
+      <td rowspan="4">Coffee Break</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>L. De Vico</td>
    </tr>
    <tr style="text-align: center;">
       <td>16:20</td>
       <!-- Day 1 -->
-      <td>Contributed</td>
+      <td>J. Kragskow</td>
       <!-- Day 2 -->
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>S. Lehtola</td>
    </tr>
    <tr style="text-align: center;">
       <td>16:40</td>
       <!-- Day 1 -->
-      <td rowspan="2">Poster session?</td>
+      <td>P. Calio</td>
       <!-- Day 2 -->
       <!-- Day 3 -->
-      <td>Closing remarks</td>
+      <td>J. Bao</td>
    </tr>
     <tr style="text-align: center;">
       <td>17:00</td>
       <!-- Day 1 -->
-      <td rowspan="2">Poster session?</td>
+      <td>F. Montorsi</td>
       <!-- Day 2 -->
       <!-- Day 3 -->
       <td>Closing remarks</td>
@@ -183,8 +178,10 @@ Preliminary program.
    <tr style="text-align: center;">
       <td></td>
       <!-- Day 1 -->
-      <!-- Day 2 -->
+      <td></td>
       <td>Gala dinner</td>
+      <td></td>
+      <!-- Day 2 -->
       <!-- Day 3 -->
       <td></td>
    </tr>
