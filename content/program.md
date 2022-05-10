@@ -21,7 +21,7 @@ Preliminary program.
 </thead>
   <tbody id="x">
    <tr style="text-align: center;">
-      <td>9:00</td>
+      <td>9:40</td>
       <!-- Day 1 -->
       <td rowspan="3">Check-in</td>
       <!-- Day 2 -->
@@ -30,7 +30,7 @@ Preliminary program.
       <td>Invited</td>
    </tr>
    <tr style="text-align: center;">
-      <td>9:30</td>
+      <td>10:00</td>
       <!-- Day 1 -->
       <!-- Day 2 -->
       <td>Contributed</td>
@@ -38,7 +38,7 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>9:50</td>
+      <td>10:20</td>
       <!-- Day 1 -->
       <!-- Day 2 -->
       <td>Contributed</td>
@@ -46,7 +46,7 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>10:10</td>
+      <td>10:40</td>
       <!-- Day 1 -->
       <td>Opening</td>
       <!-- Day 2 -->
@@ -55,25 +55,16 @@ Preliminary program.
       <td>Coffee break</td>
    </tr>
    <tr style="text-align: center;">
-      <td>10:30</td>
-      <!-- Day 1 -->
-      <td>Invited</td>
-      <!-- Day 2 -->
-      <td>Invited</td>
-      <!-- Day 3 -->
-      <td>Invited</td>
-   </tr>
-   <tr style="text-align: center;">
       <td>11:00</td>
       <!-- Day 1 -->
-      <td>Contributed</td>
+      <td>Invited</td>
       <!-- Day 2 -->
-      <td>Contributed</td>
+      <td>Invited</td>
       <!-- Day 3 -->
-      <td>Contributed</td>
+      <td>Invited</td>
    </tr>
    <tr style="text-align: center;">
-      <td>11:20</td>
+      <td>11:30</td>
       <!-- Day 1 -->
       <td>Contributed</td>
       <!-- Day 2 -->
@@ -82,7 +73,7 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>11:40</td>
+      <td>11:50</td>
       <!-- Day 1 -->
       <td>Contributed</td>
       <!-- Day 2 -->
@@ -91,7 +82,16 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>12:00</td>
+      <td>12:10</td>
+      <!-- Day 1 -->
+      <td>Contributed</td>
+      <!-- Day 2 -->
+      <td>Contributed</td>
+      <!-- Day 3 -->
+      <td>Contributed</td>
+   </tr>
+   <tr style="text-align: center;">
+      <td>12:30</td>
       <!-- Day 1 -->
       <td>Lunch</td>
       <!-- Day 2 -->
@@ -100,7 +100,7 @@ Preliminary program.
       <td>Lunch</td>
    </tr>
    <tr style="text-align: center;">
-      <td>13:30</td>
+      <td>14:00</td>
       <!-- Day 1 -->
       <td>Invited</td>
       <!-- Day 2 -->
@@ -117,13 +117,13 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>14:20</td>
+      <td>14:30</td>
       <td>Contributed</td>
       <!-- Day 2 Discussion -->
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>14:40</td>
+      <td>14:50</td>
       <!-- Day 1 -->
       <td>Contributed</td>
       <!-- Day 2 -->
@@ -131,7 +131,7 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>15:00</td>
+      <td>15:10</td>
       <!-- Day 1 -->
       <td>Coffee break</td>
       <!-- Day 2 -->
@@ -149,7 +149,7 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>15:50</td>
+      <td>16:00</td>
       <!-- Day 1 -->
       <td>Contributed</td>
       <!-- Day 2 -->
@@ -157,7 +157,7 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>16:10</td>
+      <td>16:20</td>
       <!-- Day 1 -->
       <td>Contributed</td>
       <!-- Day 2 -->
@@ -165,7 +165,15 @@ Preliminary program.
       <td>Contributed</td>
    </tr>
    <tr style="text-align: center;">
-      <td>16:30</td>
+      <td>16:40</td>
+      <!-- Day 1 -->
+      <td rowspan="2">Poster session?</td>
+      <!-- Day 2 -->
+      <!-- Day 3 -->
+      <td>Closing remarks</td>
+   </tr>
+    <tr style="text-align: center;">
+      <td>17:00</td>
       <!-- Day 1 -->
       <td rowspan="2">Poster session?</td>
       <!-- Day 2 -->
