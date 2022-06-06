@@ -215,4 +215,4 @@ Preliminary program.
 
 ## Abstracts
 
-[Book of abstracts](/abstracts.pdf)
+[Book of abstracts](abstracts.pdf)
