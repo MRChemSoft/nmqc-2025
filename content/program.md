@@ -213,5 +213,6 @@ Preliminary program.
 </table>
 </div>
 
-# Abstracts
+## Abstracts
 
+[Book of abstracts](/abstracts.pdf)
