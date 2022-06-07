@@ -5,7 +5,7 @@ weight = 5
 
 ## Posters
 
-Below you can have access to the posters. 
+Below you can have access to the posters. Click to access.
 
 1. [Stochastic State-Averaged CASSCF for Spin-Exchange Transition Metal Clusters](poster_Safari.pdf) - **Arta Safari**, Max Planck Institute Stuttgart
 2. [Ab initio calculations for CO+ (for radiative association in Supernova 1987A)](poster_Simsova.pdf) - **Martina Šimsová**, Luleå University of Technology
