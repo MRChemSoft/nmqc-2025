@@ -3,11 +3,11 @@ title = "Program"
 weight = 2
 +++
 
-## Timetable
+# Timetable
 
 The schedule is in Central European Summer Time (UTC+2).
 <!-- Click on any of the talks to read the corresponding abstract. -->
-Preliminary program.
+Program.
 
 <div style="overflow-x:auto;">
 <table>
@@ -22,11 +22,21 @@ Preliminary program.
 </thead>
   <tbody id="x">
    <tr style="text-align: center;">
+      <td><b>Chair</b></td>
+      <!-- Day 1 -->
+      <td></td>
+      <!-- Day 2 -->
+      <td><i>S. Battaglia</i></td>
+      <!-- Day 3 -->
+      <td><i>F. Segatta</i></td>
+      <td></td>
+   </tr>
+   <tr style="text-align: center;">
       <td>9:40</td>
       <!-- Day 1 -->
       <td></td>
       <!-- Day 2 -->
-      <td>Y. Nishimoto</td>
+      <td>Y. Nishimoto <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 3 -->
       <td>G. Li Manni</td>
       <td>20'</td>
@@ -36,7 +46,7 @@ Preliminary program.
       <!-- Day 1 -->
       <td rowspan="2">Check-in</td>
       <!-- Day 2 -->
-      <td>S. Knecht</td>
+      <td>S. Knecht <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 3 -->
       <td>O. Weser</td>
       <td>20'</td>
@@ -45,9 +55,9 @@ Preliminary program.
       <td>10:20</td>
       <!-- Day 1 -->
       <!-- Day 2 -->
-      <td>E. Vos	</td>
+      <td>E. Vos	<img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 3 -->
-      <td>J. Church</td>
+      <td>J. Church <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <td>20'</td>
    </tr>
    <tr style="text-align: center;">
@@ -61,23 +71,33 @@ Preliminary program.
       <td>20'</td>
    </tr>
    <tr style="text-align: center;">
+      <td><b>Chair</b></td>
+      <!-- Day 1 -->
+      <td><i>V. Veryazov</i></td>
+      <!-- Day 2 -->
+      <td><i>L. De Vico</i></td>
+      <!-- Day 3 -->
+      <td><i>T. Weymuth</i></td>
+      <td></td>
+   </tr>
+   <tr style="text-align: center;">
       <td>11:00</td>
       <!-- Day 1 -->
-      <td>N. H. List</td>
+      <td><a href="#nanna-h-list">N. H. List</a></td>
       <!-- Day 2 -->
       <td>D. Opalka</td>
       <!-- Day 3 -->
-      <td>G. Booth</td>
+      <td>G. Booth <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <td>30'</td>
    </tr>
    <tr style="text-align: center;">
       <td>11:30</td>
       <!-- Day 1 -->
-      <td>L. Cerdán	</td>
+      <td>L. Cerdán	<img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <td>	D. Wang</td>
       <!-- Day 3 -->
-      <td>F. Plasser</td>
+      <td>F. Plasser <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <td>20'</td>
    </tr>
    <tr style="text-align: center;">
@@ -116,18 +136,28 @@ Preliminary program.
       <!-- Day 3 -->
    </tr>
    <tr style="text-align: center;">
+      <td><b>Chair</b></td>
+      <!-- Day 1 -->
+      <td><i>L. Axner</i></td>
+      <!-- Day 2 -->
+      <td><i>R. Lindh</i></td>
+      <!-- Day 3 -->
+      <td><i>S. Bokarev</i></td>
+      <td></td>
+   </tr>
+   <tr style="text-align: center;">
       <td>14:00</td>
       <!-- Day 1 -->
-      <td>A. Scemama	</td>
+      <td><a href="#anthony-scemama">A. Scemama <img src="zoom-icon.png" alt="(Online)" height="30"></a></td>
       <!-- Day 2 -->
-      <td>P.-F. Loos & M. Boggio-Pasqua</td>
+      <td>P.-F. Loos <br>& M. Boggio-Pasqua <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 3 -->
       <td>F. Agostini</td>
       <td>30'</td>
    </tr>
    <tr style="text-align: center;">
       <td>14:30</td>
-      <td>M. Hapka</td>
+      <td>M. Hapka <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <td>T. Weymuth</td>
       <td>A. Baiardi</td>
       <td>20'</td>
@@ -135,18 +165,18 @@ Preliminary program.
     <tr style="text-align: center;">
       <td>14:50</td>
       <!-- Day 1 -->
-      <td>A. Ammar</td>
+      <td>A. Ammar <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <td rowspan="2">Discussion</td>
       <!-- Day 3 -->
-      <td>V. K. Jaiswal</td>
+      <td>V. K. Jaiswal <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <td>20'</td>
    </tr>
 
    <tr style="text-align: center;">
       <td>15:10</td>
       <!-- Day 1 -->
-      <td>P. Lopez Rios</td>
+      <td>P. Lopez Rios <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <!-- Day 3 -->
       <td>A. Kaiser</td>
@@ -162,6 +192,16 @@ Preliminary program.
       <td><b style="color :red;">Coffee break</b></td>
       <td>30'</td>
    </tr>
+    <tr style="text-align: center;">
+      <td><b>Chair</b></td>
+      <!-- Day 1 -->
+      <td><i>G. Li Manni</i</td>
+      <!-- Day 2 -->
+      <td></td>
+      <!-- Day 3 -->
+      <td><i>M. Delcey</i></td>
+      <td></td>
+   </tr>
    <tr style="text-align: center;">
       <td>16:00</td>
       <!-- Day 1 -->
@@ -175,7 +215,7 @@ Preliminary program.
    <tr style="text-align: center;">
       <td>16:20</td>
       <!-- Day 1 -->
-      <td>J. Kragskow</td>
+      <td>J. Kragskow <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <!-- Day 3 -->
       <td>S. Lehtola</td>
@@ -184,7 +224,7 @@ Preliminary program.
    <tr style="text-align: center;">
       <td>16:40</td>
       <!-- Day 1 -->
-      <td>P. Calio</td>
+      <td>P. Calio <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <!-- Day 3 -->
       <td>J. Bao</td>
@@ -213,6 +253,35 @@ Preliminary program.
 </table>
 </div>
 
-## Abstracts
+# Abstracts
 
 [Book of abstracts](abstracts.pdf)
+
+<!--
+## Nanna H. List {#nanna-h-list}
+**Rationalizing excited-state behaviors of the anionic GFP chromophore in increasingly complex environments**
+
+Nanna H. List<sup>a,b,c</sup>, Chey M. Jones<sup>b,c</sup>, Todd J. Martínezb<sup>b,c</sup>
+
+<sup>a</sup>Department of Theoretical Chemistry and Biology, The School of Engineering Sciences in Chemistry, Biotechnology and Health, KTH Royal Institute of Technology, Stockholm, SE
+<sup>b</sup>Department of Chemistry and The PULSE Institute, Stanford University, Stanford, CA 94305
+<sup>c</sup>SLAC National Accelerator Laboratory, Menlo Park, CA 94025
+
+
+Since the initial characterization of GFP in Aequorea victoria, fluorescent proteins have emerged as powerful probes of in vivo biological function. Their functional diversity is intimately linked to the interplay between competing photo-induced transformations of the chromophore motif (p- hydroxybenzylidene-2,3-dimethylimidazolinone, HBDI). In particular, the ability of the anionic chromophore to undergo Z/E-photoisomerization in reversibly photoswitchable protein variants has propelled imaging resolution beyond the diffraction limit. Beyond imaging, so-called splitGFP constructs (reconstituted cut forms of the protein) offer exciting opportunities in non-neural optogenetics but only if we can achieve notable photomechanical action through chromophore photoisomerization. However, how to purposefully design excited-state proteins for a specific task remains an outstanding challenge.
+
+This talk will focus on our recent efforts to rationalize the excited-state behavior of the anionic chromophore in increasingly complex environments using graphical processing unit (GPU)-based methods together with (non)adiabatic dynamics and enhanced sampling.
+ 
+**References**:
+1. N. H. List, C. M. Jones, T. J. Martínez, Chem. Sci., 2022, 13, 373
+2. C. M. Jones, N. H. List, T. J. Martínez, Chem. Sci., 2021, 12, 11347
+3. N. H. List, C. M. Jones, T. J. Martínez, in preparation.
+4. C. M. Jones, N. H. List, T. J. Martínez, in review.
+5. C. M. Jones, N. H. List, T. J. Martínez, in preparation
+
+## Anthony Scemama {#anthony-scemama}
+
+**The TREXIO file format and library**
+
+Within the "Targeting REal chemical accuracy at the eXascale" (TREX) European center of excellence, we are building a file format and library to help inter-operability between quantum chemistry codes, and also to help the reproducibility of calculations. This is a tedious task because the codes have di􏰁erent conventions such as the normalization of the basis, the ordering of atomic orbitals, the phase factors in the CI coe􏰂cients, etc. . . We propose a file format in which these conventions are well de􏰀ned, such that the users don't need to know which code produced the file to be able to use the data inside it. The access to the data in the 􏰀le is made via TREXIO, a C- compatible library which has a Fortran and a Python binding. In addition to the storage of all the wave function parameters (atomic basis set, molecular orbitals, CI coeficients, . . . ), the TREXIO library also allows the storage of one- and two-electron integrals as well as one- and two-body reduced density matrices
+-->
