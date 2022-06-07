@@ -6,8 +6,6 @@ weight = 2
 # Timetable
 
 The schedule is in Central European Summer Time (UTC+2).
-<!-- Click on any of the talks to read the corresponding abstract. -->
-Program.
 
 <div style="overflow-x:auto;">
 <table>
@@ -83,7 +81,7 @@ Program.
    <tr style="text-align: center;">
       <td>11:00</td>
       <!-- Day 1 -->
-      <td><a href="#nanna-h-list">N. H. List</a></td>
+      <td>M. Delcey</td>
       <!-- Day 2 -->
       <td>D. Opalka</td>
       <!-- Day 3 -->
@@ -148,7 +146,7 @@ Program.
    <tr style="text-align: center;">
       <td>14:00</td>
       <!-- Day 1 -->
-      <td><a href="#anthony-scemama">A. Scemama <img src="zoom-icon.png" alt="(Online)" height="30"></a></td>
+      <td>>A. Scemama <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <td>P.-F. Loos <br>& M. Boggio-Pasqua <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 3 -->
@@ -218,7 +216,7 @@ Program.
       <td>J. Kragskow <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <!-- Day 3 -->
-      <td>S. Lehtola</td>
+      <td>S. Lehtola <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <td>20'</td>
    </tr>
    <tr style="text-align: center;">
@@ -227,7 +225,7 @@ Program.
       <td>P. Calio <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <!-- Day 2 -->
       <!-- Day 3 -->
-      <td>J. Bao</td>
+      <td>J. Bao <img src="zoom-icon.png" alt="(Online)" height="30"></td>
       <td>20'</td>
    </tr>
     <tr style="text-align: center;">
