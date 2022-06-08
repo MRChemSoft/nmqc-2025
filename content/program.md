@@ -81,7 +81,7 @@ The schedule is in Central European Summer Time (UTC+2).
    <tr style="text-align: center;">
       <td>11:00</td>
       <!-- Day 1 -->
-      <td>M. Delcey</td>
+      <td>M. G. Delcey</td>
       <!-- Day 2 -->
       <td>D. Opalka</td>
       <!-- Day 3 -->
@@ -197,7 +197,7 @@ The schedule is in Central European Summer Time (UTC+2).
       <!-- Day 2 -->
       <td></td>
       <!-- Day 3 -->
-      <td><i>M. Delcey</i></td>
+      <td><i>M. G. Delcey</i></td>
       <td></td>
    </tr>
    <tr style="text-align: center;">
