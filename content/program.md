@@ -241,7 +241,7 @@ The schedule is in Central European Summer Time (UTC+2).
       <td></td>
       <!-- Day 1 -->
       <td></td>
-      <td>Gala dinner</td>
+      <td><a href="https://www.borgenuppsala.se/" target="_blank">Gala dinner</a></td>
       <td></td>
       <!-- Day 2 -->
       <!-- Day 3 -->
@@ -250,6 +250,12 @@ The schedule is in Central European Summer Time (UTC+2).
   </tbody>
 </table>
 </div>
+
+The gala dinner will be at <a href="https://www.borgenuppsala.se/" target="_blank">Restaurant Borgen</a> at **19:00**.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2003.3195101632118!2d17.629526715678725!3d59.86044067536692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcbf421536e9f%3A0xf94313b18ad5d21d!2sBorgen%20Restaurang%20%26%20Festsalar%20Uppsala!5e0!3m2!1sen!2sse!4v1654775850791!5m2!1sen!2sse" 
+width="95%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+></iframe>
 
 # Abstracts
 
