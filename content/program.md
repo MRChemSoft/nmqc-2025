@@ -3,6 +3,11 @@ title = "Program"
 weight = 2
 +++
 
+The organising team would like to thank all the participants that contributed to the 10th OpenMolcas Developers' Workshop. 
+
+The talks can be found on the link below
+[https://www.youtube.com/playlist?list=PLABKJuDwez45c73A_SY1EsopA8MipCHco](https://www.youtube.com/playlist?list=PLABKJuDwez45c73A_SY1EsopA8MipCHco)
+
 The schedule is in Central European Summer Time (UTC+2).
 
 [Book of abstracts](abstracts.pdf)
