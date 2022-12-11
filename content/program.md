@@ -3,14 +3,11 @@ title = "Program"
 weight = 2
 +++
 
-The organising team would like to thank all the participants that contributed to the 10th OpenMolcas Developers' Workshop. 
-
-The talks can be found on the link below
-[https://www.youtube.com/playlist?list=PLABKJuDwez45c73A_SY1EsopA8MipCHco](https://www.youtube.com/playlist?list=PLABKJuDwez45c73A_SY1EsopA8MipCHco)
-
 The schedule is in Central European Summer Time (UTC+2).
 
-[Book of abstracts](abstracts.pdf)
+**TODO** Prepare a book of abstracts and link it here.
+
+**TODO** Update the HTML table with the schedule.
 
 <div style="overflow-x:auto;">
 <table>
@@ -256,37 +253,3 @@ The schedule is in Central European Summer Time (UTC+2).
 </table>
 </div>
 
-The gala dinner will be at <a href="https://www.borgenuppsala.se/" target="_blank">Restaurant Borgen</a> at **19:00**.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d16031.605801126807!2d17.619219236108083!3d59.84995849305817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x465fcbe00456a9c1%3A0x30900a218076ca4e!2zw4VuZ3N0csO2bWxhYm9yYXRvcmlldCwgTMOkZ2VyaHlkZHN2w6RnZW4sIFVwcHNhbGE!3m2!1d59.8392565!2d17.6470745!4m5!1s0x465fcbf421536e9f%3A0xf94313b18ad5d21d!2sBorgen%20Restaurang%20%26%20Festsalar%20Uppsala%20Orphei%20Dr%C3%A4ngars%20plats%201%20753%2011%20Uppsala!3m2!1d59.860437999999995!2d17.6317154!5e0!3m2!1sen!2sse!4v1654776402318!5m2!1sen!2sse" 
-width="95%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-></iframe>
-
-<!--
-## Nanna H. List {#nanna-h-list}
-**Rationalizing excited-state behaviors of the anionic GFP chromophore in increasingly complex environments**
-
-Nanna H. List<sup>a,b,c</sup>, Chey M. Jones<sup>b,c</sup>, Todd J. Martínezb<sup>b,c</sup>
-
-<sup>a</sup>Department of Theoretical Chemistry and Biology, The School of Engineering Sciences in Chemistry, Biotechnology and Health, KTH Royal Institute of Technology, Stockholm, SE
-<sup>b</sup>Department of Chemistry and The PULSE Institute, Stanford University, Stanford, CA 94305
-<sup>c</sup>SLAC National Accelerator Laboratory, Menlo Park, CA 94025
-
-
-Since the initial characterization of GFP in Aequorea victoria, fluorescent proteins have emerged as powerful probes of in vivo biological function. Their functional diversity is intimately linked to the interplay between competing photo-induced transformations of the chromophore motif (p- hydroxybenzylidene-2,3-dimethylimidazolinone, HBDI). In particular, the ability of the anionic chromophore to undergo Z/E-photoisomerization in reversibly photoswitchable protein variants has propelled imaging resolution beyond the diffraction limit. Beyond imaging, so-called splitGFP constructs (reconstituted cut forms of the protein) offer exciting opportunities in non-neural optogenetics but only if we can achieve notable photomechanical action through chromophore photoisomerization. However, how to purposefully design excited-state proteins for a specific task remains an outstanding challenge.
-
-This talk will focus on our recent efforts to rationalize the excited-state behavior of the anionic chromophore in increasingly complex environments using graphical processing unit (GPU)-based methods together with (non)adiabatic dynamics and enhanced sampling.
- 
-**References**:
-1. N. H. List, C. M. Jones, T. J. Martínez, Chem. Sci., 2022, 13, 373
-2. C. M. Jones, N. H. List, T. J. Martínez, Chem. Sci., 2021, 12, 11347
-3. N. H. List, C. M. Jones, T. J. Martínez, in preparation.
-4. C. M. Jones, N. H. List, T. J. Martínez, in review.
-5. C. M. Jones, N. H. List, T. J. Martínez, in preparation
-
-## Anthony Scemama {#anthony-scemama}
-
-**The TREXIO file format and library**
-
-Within the "Targeting REal chemical accuracy at the eXascale" (TREX) European center of excellence, we are building a file format and library to help inter-operability between quantum chemistry codes, and also to help the reproducibility of calculations. This is a tedious task because the codes have di􏰁erent conventions such as the normalization of the basis, the ordering of atomic orbitals, the phase factors in the CI coe􏰂cients, etc. . . We propose a file format in which these conventions are well de􏰀ned, such that the users don't need to know which code produced the file to be able to use the data inside it. The access to the data in the 􏰀le is made via TREXIO, a C- compatible library which has a Fortran and a Python binding. In addition to the storage of all the wave function parameters (atomic basis set, molecular orbitals, CI coeficients, . . . ), the TREXIO library also allows the storage of one- and two-electron integrals as well as one- and two-body reduced density matrices
--->
