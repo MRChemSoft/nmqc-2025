@@ -3,8 +3,5 @@ title = "Venue"
 weight = 1
 +++
 
-**TODO** Write me
-
-
-## How to reach Tromsø
+The workshop will be held in [Tromsø, Norway](https://www.visittromso.no/)
 
