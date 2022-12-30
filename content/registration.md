@@ -3,6 +3,10 @@ title = "Registration"
 weight = 3
 +++
 
+**Opening soon**
+
+<!---
+
 **TODO** 
 
 - Add link to registration form
@@ -10,3 +14,4 @@ weight = 3
 - Abstract submission
 - Deadlines
 
+--->
