@@ -3,6 +3,8 @@ title = "Organizers"
 weight = 5
 +++
 
+For questions, please contact us at: [nmqc-2023@mrchemsoft.no](mailto:nmqc-2023@mrchemsoft.no)
+
 Scientific committee:
 
 * [Florian Bischoff](mailto:florian.bischoff@chemie.hu-berlin.de)
@@ -33,8 +35,7 @@ Local organizing committee:
 --------
 --->
 
-For questions, please contact us at [nmqc-2023@mrchemsoft.no](mailto:nmqc-2023@mrchemsoft.no)
-
+--------
 
 This website is built using the <a href="https://www.getzola.org" target="_blank">Zola</a> static site
 generator and a modified version of the <a href="https://juice.huhu.io" target="_blank">Juice theme</a>.
