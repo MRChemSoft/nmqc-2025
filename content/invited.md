@@ -15,3 +15,5 @@ weight = 2
 * Vikram Gavini, University of Michigan
 * Benjamin Stamm, University of Stuttgart
 * Edit Maytus, Eötvös Loránd University
+* Michal Repisky, UiT The Arctic University of Norway
+* Volker Blum, Duke University
