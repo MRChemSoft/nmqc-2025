@@ -10,7 +10,7 @@ Scientific committee:
 * [Florian Bischoff](mailto:florian.bischoff@chemie.hu-berlin.de)
 * [Luca Frediani](mailto:luca.frediani@uit.no)
 * [Robert Harrison](mailto:Robert.Harrison@stonybrook.edu)
-* [Jakob Kottman](mailto:)
+* [Jakob Kottmann](mailto:jakob.kottmann@uni-a.de)
 * [Laura Ratcliff](mailto:laura.ratcliff08@imperial.ac.uk)
 * [Hideo Sekino](mailto:hideo.sekino@stonybrook.edu)
 * [Dage Sundholm](mailto:sundholm@chem.helsinki.fi)
