@@ -17,3 +17,4 @@ weight = 2
 * Edit Maytus, Eötvös Loránd University
 * Michal Repisky, UiT The Arctic University of Norway
 * Volker Blum, Duke University
+* Luigi Genovese, Commissariat à l'énergie atomique et aux énergies alternatives, Grenoble
