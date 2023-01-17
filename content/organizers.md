@@ -7,14 +7,14 @@ For questions, please contact us at: [nmqc-2023@mrchemsoft.no](mailto:nmqc-2023@
 
 Scientific committee:
 
-* [Florian Bischoff](mailto:florian.bischoff@chemie.hu-berlin.de)
-* [Luca Frediani](mailto:luca.frediani@uit.no)
-* [Robert Harrison](mailto:Robert.Harrison@stonybrook.edu)
-* [Jakob Kottmann](mailto:jakob.kottmann@uni-a.de)
-* [Laura Ratcliff](mailto:laura.ratcliff08@imperial.ac.uk)
+* [Florian Bischoff](https://www.chemie.hu-berlin.de/en/forschung-en/theoretical-chemistry/team/ag-bischoff/team/florian-bischoff)
+* [Luca Frediani](https://uit.no/research/ik-tcg)
+* [Robert Harrison](https://iacs.stonybrook.edu/people/_faculty/robert-harrison.php)
+* [Jakob Kottmann](https://jakobkottmann.com)
+* [Laura Ratcliff](https://ratcliffgroup.wordpress.com/people/)
 * [Hideo Sekino](mailto:hideo.sekino@stonybrook.edu)
-* [Dage Sundholm](mailto:sundholm@chem.helsinki.fi)
-* [Edward Valeev](mailto:evaleev@vt.edu)
+* [Dage Sundholm](http://www.chem.helsinki.fi/~sundholm/)
+* [Edward Valeev](https://valeevgroup.github.io/)
 
 Local organizing committee:
 
