@@ -3,7 +3,7 @@ title = "Registration"
 weight = 4
 +++
 
-**Opening soon**
+ [Registration form](https://forms.gle/kE3Lb2p6PtLv5XoY8)
 
 <!---
 
