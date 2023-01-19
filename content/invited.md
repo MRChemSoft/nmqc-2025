@@ -18,3 +18,6 @@ weight = 2
 * Michal Repisky, UiT The Arctic University of Norway
 * Volker Blum, Duke University
 * Luigi Genovese, Commissariat à l'énergie atomique et aux énergies alternatives, Grenoble
+* Thierry Deutsch, Commissariat à l'énergie atomique et aux énergies alternatives, Grenoble
+* Gregory Beylkin, University of Colorado at Boulder
+* Martina Stella, International Centre for Theoretical Physics, Trieste
