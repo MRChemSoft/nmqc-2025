@@ -10,6 +10,7 @@ weight = 2
 * Hazel Cox, University of Sussex
 * William Dawson, RIKEN
 * Thierry Deutsch, Commissariat à l'énergie atomique et aux énergies alternatives, Grenoble
+* Janus Juul Eriksen, Technical University of Denmark
 * Vikram Gavini, University of Michigan
 * Luigi Genovese, Commissariat à l'énergie atomique et aux énergies alternatives, Grenoble
 * Andris Gulans, University of Latvia
