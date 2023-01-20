@@ -19,6 +19,7 @@ Scientific committee:
 Local organizing committee:
 
 * [Luca Frediani](mailto:luca.frediani@uit.no)
+* [Stig Eide](mailto:stig.eide@uit.no)
 * [Laura Ratcliff](mailto:laura.ratcliff08@imperial.ac.uk)
 * [Christian Tantardini](mailto:)
 * [Roberto Di Remigio Eikås](mailto:roberto@algorithmiq.fi)
