@@ -15,6 +15,7 @@ weight = 2
 * Luigi Genovese, Commissariat à l'énergie atomique et aux énergies alternatives, Grenoble
 * Andris Gulans, University of Latvia
 * Michael Herbst, RWTH Aachen
+* Stefan Knecht, Algorithmiq Ltd. and ETH, Zurich
 * Susi Lehtola, University of Helsinki
 * Sabrina Maniscalco, Algorithmiq Ltd. and University of Helsinki
 * Edit Maytus, Eötvös Loránd University
