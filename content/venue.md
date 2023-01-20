@@ -3,6 +3,8 @@ title = "Venue"
 weight = 1
 +++
 
+## About the workshop
+
 The workshop will be held in [Tromsø, Norway](https://www.visittromso.no/)
 
 It will take place at UiT, The Arctic University of Norway.
@@ -14,7 +16,7 @@ To keep the conference as affordable as possible, we will not ask for conference
 
 Tromsø is principally located on island Tromsøya an during the years it is enlarged on the coasts around. The University is in the northern part of the island and close to the Hospital. This make the UIT easy reachable from different directions with public transport.
 
-## Travelling to/fram Tromsø
+## Travelling to/from Tromsø
 
 Tromsø has a local airport (TOS) which is connected to Oslo Gardemoen (OSL) with several flights every day. Lately several longer distance connection have been established (Stockholm, Munich, Zurich, Frankfurt, Copenhagen, etc..) but they are generally limited to once/twice a week. Most of them are on Saturdays.
 
