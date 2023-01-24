@@ -44,6 +44,8 @@ To modify the speaker photo:
 
 {{ speaker(name="Michal Repisky", affiliation="UiT The Arctic University of Norway", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
+{{ speaker(name="Trond Saue", affiliation="University of Tolouse, France", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
+
 {{ speaker(name="Benjamin Stamm", affiliation="University of Stuttgart", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
 {{ speaker(name="Martina Stella", affiliation="International Centre for Theoretical Physics, Trieste", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
