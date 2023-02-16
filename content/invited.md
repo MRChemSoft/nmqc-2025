@@ -36,11 +36,17 @@ To modify the speaker photo:
 
 {{ speaker(name="Stefan Knecht", affiliation="Algorithmiq Ltd. and ETH, Zurich", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
+{{ speaker(name="Simen Kvaal", affiliation="University of Oslo", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
+
 {{ speaker(name="Susi Lehtola", affiliation="University of Helsinki", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
 {{ speaker(name="Sabrina Maniscalco", affiliation="Algorithmiq Ltd. and University of Helsinki", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
 {{ speaker(name="Edit Maytus", affiliation="Eötvös Loránd University", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
+
+{{ speaker(name="Jeppe Olsen", affiliation="Aarhus University", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
+
+{{ speaker(name="Thomas Bondo Pedersen", affiliation="University of Oslo", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
 {{ speaker(name="Michal Repisky", affiliation="UiT The Arctic University of Norway", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
@@ -51,3 +57,5 @@ To modify the speaker photo:
 {{ speaker(name="Martina Stella", affiliation="International Centre for Theoretical Physics, Trieste", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
 {{ speaker(name="Stella Stopkowicz", affiliation="Universität des Saarlandes", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
+
+{{ speaker(name="Erik Tellgren", affiliation="University of Oslo", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
