@@ -15,12 +15,7 @@ jobs:
     - name: Checkout main
       uses: actions/checkout@v3
       
-    - name: Workaround bug in github actions
-      run: |
-        # see https://github.com/actions/runner-images/issues/6775
-        git config --global --add safe.directory /github/workspace
-      
     - name: Build and deploy
-      uses: shalzz/zola-deploy-action@v0.16.1
+      uses: shalzz/zola-deploy-action@v0.16.1-1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
