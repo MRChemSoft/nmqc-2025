@@ -34,8 +34,12 @@ your needs and preferences.
 
 ![](samskipnaden_2.png)
 
-You will have to pay in advance. This will later be refunded to a limited
-amount of students on a first-come first-served basis.
+You will have to pay in advance. 
+
+Undergraduate and graduate students will be eligible for a refund on a **first-come, first-served** basis. 
+Please send us a request at [nmqc-2023@mrchemsoft.no](mailto:nmqc-2023@mrchemsoft.no). 
+Requests will be granted for stays of up to seven nights on a **first-come, first-served** basis. 
+All reimbursements will be paid **after** the conference, upon submission of the relevant documentation.
 
 Use [this link] to put in a reservation.
 
