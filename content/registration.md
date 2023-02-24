@@ -20,7 +20,7 @@ weight = 4
 
 ## Housing for student participants
 
-Use [this link] to reserve housing provided by the University of Tromsø. There you will see a selection of apartments to rent.
+You can reserve housing provided by the University of Tromsø. There you will see a selection of apartments to rent.
 
 ![](samskipnaden_0.png)
 
@@ -36,6 +36,8 @@ your needs and preferences.
 
 You will have to pay in advance. This will later be refunded to a limited
 amount of students on a first-come first-served basis.
+
+Use [this link] to put in a reservation.
 
 For any questions, contact us at: [nmqc-2023@mrchemsoft.no](mailto:nmqc-2023@mrchemsoft.no)
 
