@@ -20,7 +20,7 @@ weight = 4
 
 ## Housing for student participants
 
-You can reserve housing provided by the University of Tromsø. There you will see a selection of apartments to rent.
+You can reserve housing provided by the University of Tromsø.
 
 ![](samskipnaden_0.png)
 
