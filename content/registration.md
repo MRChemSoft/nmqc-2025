@@ -3,9 +3,7 @@ title = "Registration"
 weight = 4
 +++
 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdc7kj_aRoSYrh399pBmOfSvXAKrIcQC-i2I8t92NyehqEd2A/viewform?embedded=true" width="640" height="2800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+Due to unexpectedly high demand, we have now reached maximum capacity and we therefore closed the registration in advance of the planned deadline.
 
 <!---
 
