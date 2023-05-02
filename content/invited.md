@@ -32,7 +32,7 @@ To modify the speaker photo:
 
 {{ speaker(name="Andris Gulans", affiliation="University of Latvia", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
-{{ speaker(name="Michael Herbst", affiliation="RWTH Aachen", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
+{{ speaker(name="Michael Herbst", affiliation="EPFL", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
 {{ speaker(name="Stefan Knecht", affiliation="Algorithmiq Ltd. and ETH, Zurich", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
