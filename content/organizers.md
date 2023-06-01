@@ -27,6 +27,8 @@ Local organizing committee:
 * [Quentin Pitteloud](mailto:)
 * [Stig Rune Jensen](mailto:)
 * [Magnar Bjørgve](mailto:)
+* [Evgueni Dinvay](mailto:)
+* [Peter Wind](mailto:)
 
 <!---
 --------
