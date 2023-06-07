@@ -7,5 +7,5 @@ Small changes in the schedule might occur.
 
 ![](program_v5.png)
 
-You can download the [book of abstracts](NMQC_Abstract_v9.pdf).
+You can download the [book of abstracts](program_v10.pdf).
 
