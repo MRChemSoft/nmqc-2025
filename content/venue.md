@@ -5,42 +5,22 @@ weight = 1
 
 ## About the workshop
 
-The workshop will be held in [Tromsø, Norway](https://www.visittromso.no/)
+The workshop will be held at [Humboldt University](https://www.hu-berlin.de/de) in Adlershof in [Berlin, Germany](https://www.visitberlin.de/) in the [Erwin-Schrödinger-Zentrum](https://maps.app.goo.gl/Fqv1HcU8uQYAiYcN7).
+The conference will start on Wednesday the 18.06.2025 at 9.00am and will terminate on Friday the 10.06.2025 at 6.00pm. The event is structured as a series of *invited presentations*, a few *contributed presentations*, and a *poster session* ranging from the theoretical foundations of numerical methods to practical applications, which we believe will be of interest for PhD students and young researchers. The program will be available shortly on our website.
 
-It will take place at UiT, The Arctic University of Norway.
-The conference will start on Monday the 05.06.2023 at 9.00am and will terminate on Thursday the 08.06.2023 at 6.00pm. The event is structured as a series of *invited presentations*, a few *contributed presentations*, a *poster session* and a series of afternoon *tutorials* ranging from the theoretical foundations of numerical methods to practical applications, which we believe will be of interest for PhD students and young researchers. The program will be available shortly on our website.
+To keep the conference as affordable as possible, we will keep the conference fees low and we will provide a small lunch for all participants during the three days of the conference. 
 
-To keep the conference as affordable as possible, we will not ask for conference fees and we will provide lunch for all participants during the four days of the conference. To promote participation for undergraduate and graduate students, we will offer a limited number of student accommodations free of charge, on a first-come-first-served basis.
+## About Adlershof
 
-## About Tromsø
-
-Tromsø is principally located on island Tromsøya an during the years it is enlarged on the coasts around. The University is in the northern part of the island and close to the Hospital. This make the UIT easy reachable from different directions with public transport.
-
-## Travelling to/from Tromsø
-
-Tromsø has a local airport (TOS) which is connected to Oslo Gardemoen (OSL) with several flights every day. Lately several longer distance connection have been established (Stockholm, Munich, Zurich, Frankfurt, Copenhagen, etc..) but they are generally limited to once/twice a week. Most of them are on Saturdays.
+Adlershof is a southeastern part of Berlin. Accommodations are available close to the workshop site within walking distance, the center of Berlin can be reaching within 30 minutes using public transportation. 
 
 ## Local Transport
 
-City buses from the centre to the university campus are frequent. Walking from the centre to campus is also an option (it takes about 30-45min).
-For bus tickets we recommend you to install the "Troms billett" app on your phone. Tickets bought on buses are more expensive.
+Adlershof is well connected to the public transportation through S-Bahn and street car [https://www.bvg.de/en]. There is a number of tickets available, including 7-day tickets valid for all modes of transportation [https://www.bvg.de/en/subscriptions-and-tickets]. Car-sharing is offered in Adlershof too. The closest S-Bahn station is [S Adlerhof](https://maps.app.goo.gl/7UoirT2mRQAadh4c7), within 10 walking minutes to the workshop site. The closest street car station is [Magnusstrasse](https://maps.app.goo.gl/PKCVNZCFFv1Kg8pZ7) within 2 minutes walking.
 
-- City Center – UiT: Line buses 20, 21, 33
-- Airport – City Center: Line buses 24, 40, 42
-- Airport - UiT: Take 24, 40 or 42 to "Gjæverbukta" and then change to 34.
-
-## Medical information
-
-Norway is part of the European Economic Area and emergency health assistance is provided to all EEA residents. Participants residents in non EEA countries are encouraged to have a travel insurance to cover medical expenses.
-If you suffer for chronic diseases that require specific prescriptions, you should bring all necessary medicaments with you.
+- City Center – S-Bahn S9, S8
+- Airport S-Bahn S9
 
 ## Accommodation
+There is a wide variety of accommodation available in Berlin in all price ranges, including hotels and hostels. We recommend you make your own arrangements in due time. As Adlershof is located at the outer part of Berlin, but fairly well connected, accommodations do not necessarily need to be in Adlershof.
 
-Accommodation in Tromsø can be expensive and we recommend you make your own arrangements in due time. There are several hotels downtown and even one close to campus (Pingvinhotellet). Prices range between 800NOK and 2000NOK per night.
-
-For **undergraduate** and **graduate** students, there is also the possibility to reserve a room in the UiT **guesthouse**. The organization will have the possibility to pay for a few rooms, on a first-come-first-served basis. If you wish to take advantage of this opportunity please contact us.
-
-
-## Money
-
-The local currncy is the Norwegian crown (NOK). In practically all shops/bars/hotels/restaurants you can easily pay with Credit Card. Should you need cash you can exchange it at RIA Money Transfer, located is in Storgata 32.
