@@ -6,7 +6,7 @@ weight = 1
 ## About the workshop
 
 The workshop will be held at [Humboldt University](https://www.hu-berlin.de/de) in Adlershof in [Berlin, Germany](https://www.visitberlin.de/) in the [Erwin-Schrödinger-Zentrum](https://maps.app.goo.gl/Fqv1HcU8uQYAiYcN7).
-The conference will start on Wednesday the 18.06.2025 at 9.00am and will terminate on Friday the 10.06.2025 at 6.00pm. The event is structured as a series of *invited presentations*, a few *contributed presentations*, and a *poster session* ranging from the theoretical foundations of numerical methods to practical applications, which we believe will be of interest for PhD students and young researchers. The program will be available shortly on our website.
+The conference will start on Wednesday the 18.06.2025 at 9.00am and will terminate on Friday the 20.06.2025 at 6.00pm. The event is structured as a series of *invited presentations*, a few *contributed presentations*, and a *poster session* ranging from the theoretical foundations of numerical methods to practical applications, which we believe will be of interest for PhD students and young researchers. The program will be available shortly on our website.
 
 To keep the conference as affordable as possible, we will keep the conference fees low and we will provide a small lunch for all participants during the three days of the conference. 
 
