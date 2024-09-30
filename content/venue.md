@@ -21,6 +21,7 @@ Adlershof is well connected to the public transportation through S-Bahn and stre
 - City Center – S-Bahn S9, S8
 - Airport S-Bahn S9
 
+
 ## Accommodation
 There is a wide variety of accommodation available in Berlin in all price ranges, including hotels and hostels. We recommend you make your own arrangements in due time. As Adlershof is located at the outer part of Berlin, but fairly well connected, accommodations do not necessarily need to be in Adlershof.
 
