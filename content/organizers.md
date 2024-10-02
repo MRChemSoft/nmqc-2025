@@ -13,6 +13,7 @@ Scientific committee:
 
 Local organizing committee:
 
+* [Raunak Farhaz](https://www.chemie.hu-berlin.de/en/forschung-en/theoretical-chemistry/team/ag-bischoff/team/raunak-farhaz)
 
 <!---
 --------
