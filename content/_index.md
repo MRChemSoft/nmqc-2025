@@ -11,7 +11,6 @@ As a satellite meeting of the WATOC 2025 conference, this event continues the tr
 
 The workshop will take place from June 18 to June 20, 2025, at Humboldt University’s Adlershof campus in Berlin, Germany.
 
-
 Florian Bischoff
 Luca Frediani
 Michal Repisky
