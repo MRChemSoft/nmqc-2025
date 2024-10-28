@@ -17,7 +17,7 @@ Adlershof is a southeastern part of Berlin. Accommodations are available close t
 
 ## Local Transport
 
-Adlershof is well connected to the public transportation through S-Bahn and street car [https://www.bvg.de/en]. There is a number of tickets available, including 7-day tickets valid for all modes of transportation [https://www.bvg.de/en/subscriptions-and-tickets]. Car-sharing is offered in Adlershof too. The closest S-Bahn station is [S Adlerhof](https://maps.app.goo.gl/7UoirT2mRQAadh4c7), within 10 walking minutes to the workshop site. The closest street car station is [Magnusstrasse](https://maps.app.goo.gl/PKCVNZCFFv1Kg8pZ7) within 2 minutes walking.
+Adlershof is well connected to the public transportation through S-Bahn and street car [https://www.bvg.de/en](https://www.bvg.de/en). There is a number of tickets available, including 7-day tickets valid for all modes of transportation [https://www.bvg.de/en/subscriptions-and-tickets](https://www.bvg.de/en/subscriptions-and-tickets). Car-sharing is offered in Adlershof too. The closest S-Bahn station is [S Adlerhof](https://maps.app.goo.gl/7UoirT2mRQAadh4c7), within 10 walking minutes to the workshop site. The closest street car station is [Magnusstrasse](https://maps.app.goo.gl/PKCVNZCFFv1Kg8pZ7) within 2 minutes walking.
 
 - City Center – S-Bahn S9, S8
 - Airport S-Bahn S9
