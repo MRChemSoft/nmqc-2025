@@ -10,5 +10,5 @@ To modify the speaker photo:
 -->
 
 
-{{ speaker(name="First&Last name", affiliation="Affiliation", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
+{{ speaker(name="Dominika Zgid", affiliation="University of Michigan", bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas orci urna, aliquet a suscipit et, consequat quis libero. In hac habitasse platea dictumst. Duis porta nibh libero, non suscipit lorem venenatis tincidunt.") }}
 
