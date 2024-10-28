@@ -3,7 +3,7 @@ title = "Organizers"
 weight = 5
 +++
 
-For questions, please contact us at florian.bischoff--at--hu-berlin.de.
+For questions, please contact us at florian.bischoff++at++chemie.hu-berlin.de
 
 Scientific committee:
 
