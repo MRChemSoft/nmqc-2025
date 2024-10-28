@@ -5,8 +5,8 @@ sort_by = "weight"
 insert_anchor_links = "right"
 +++
 
-We are pleased to announce the **Numerical Methods in Quantum Chemistry** workshop. 
+We are pleased to invite you to the **Numerical Methods in Quantum Chemistry** workshop. 
 
-The event is a satellite meeting of the WATOC 2025 conference, and continues in the tradition of presenting the foundation and application of numerical methods in theoretical chemical physics, with an additional focus on light-matter interactions and relativistic effects.  
+As a satellite meeting of the WATOC 2025 conference, this event continues the tradition of presenting foundational and applied advances in numerical methods in quantum chemistry and chemical physics. This year, we are especially excited to highlight topics in light-matter interactions and relativistic effects. We warmly welcome researchers and practitioners to join us in sharing insights and developments in these vibrant fields.
 
-The workshop will take place at Humboldt University, Adlershof campus, Berlin, Germany, from June 18 to June 20, 2025.
+The workshop will take place from June 18 to June 20, 2025, at Humboldt University’s Adlershof campus in Berlin, Germany"
