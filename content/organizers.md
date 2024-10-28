@@ -3,7 +3,7 @@ title = "Organizers"
 weight = 5
 +++
 
-For questions, please contact us at: [email@address.no](mailto:email@address.no)
+For questions, please contact us at florian.bischoff--at--hu-berlin.de.
 
 Scientific committee:
 
@@ -13,6 +13,7 @@ Scientific committee:
 
 Local organizing committee:
 
+* [Florian Bischoff](https://www.chemie.hu-berlin.de/en/forschung-en/theoretical-chemistry/team/ag-bischoff/team/florian-bischoff) 
 * [Raunak Farhaz](https://www.chemie.hu-berlin.de/en/forschung-en/theoretical-chemistry/team/ag-bischoff/team/raunak-farhaz)
 
 <!---
@@ -24,6 +25,3 @@ Local organizing committee:
 --->
 
 --------
-
-This website is built using the <a href="https://www.getzola.org" target="_blank">Zola</a> static site
-generator and a modified version of the <a href="https://juice.huhu.io" target="_blank">Juice theme</a>.
