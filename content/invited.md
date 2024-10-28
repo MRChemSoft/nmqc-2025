@@ -10,5 +10,5 @@ To modify the speaker photo:
 -->
 
 
-{{ speaker(name="[Dominika Zgid](https://lsa.umich.edu/chem/people/faculty/zgid.html)", affiliation="University of Michigan") }}
+1. [Dominika Zgid](https://lsa.umich.edu/chem/people/faculty/zgid.html), University of Michigan
 
