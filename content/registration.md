@@ -27,4 +27,5 @@ Invited speakers will receive a voucher to waive the conference fee.
 ## Other useful links
 
 [WATOC conference](https://www.watoc2025.no) Oslo, Norway, June 21-27
+
 [Reusable librariers in Quantum Chemistry](https://www.helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025) Helsinki, Finland, June 29-July 3
