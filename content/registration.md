@@ -19,7 +19,7 @@ weight = 4
 --->
 
 
-## Registration and payment
+## Registration, Payment, and Abstract Submission
 To attend the conference, please follow the two steps outlined below:
 
 1. Conference registration should be completed through this [registration form](https://forms.gle/VPC8UDni7dvzs82u7). As part of the registration process, participants are required to submit an abstract. The abstract should be uploaded in PDF format, following the provided .doc or .tex templates. 
