@@ -16,16 +16,15 @@ weight = 4
 --->
 
 ## Registration and payment
-To register for the meeting please fill the following form:
-[Registration](https://forms.gle/b1BAAdBukp91wxoM8)
+To attend the conference, please follow the two steps outlined below:
 
-To pay for the registration fee, please follow this link instead:
-[Payment](https://hi.converia.de/frontend/index.php?sub=123)
+1. To register for the conference, please follow this link: [Registration](https://forms.gle/VPC8UDni7dvzs82u7). 
 
-Invited speakers will receive a voucher to waive the conference fee.
+2. The registration fees are as follows: €150 for regular participants and €70 for students. Invited speakers will receive a voucher to waive the conference fee. Payments can be made conveniently through this link: https://hi.converia.de/frontend/index.php?sub=123.
+
+
 
 ## Other useful links
-
 [WATOC conference](https://www.watoc2025.no) Oslo, Norway, June 21-27
 
 [Reusable librariers in Quantum Chemistry](https://www.helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025) Helsinki, Finland, June 29-July 3
