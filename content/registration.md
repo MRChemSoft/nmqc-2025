@@ -22,9 +22,9 @@ weight = 4
 ## Registration and payment
 To attend the conference, please follow the two steps outlined below:
 
-1. To register for the conference, please fill out the registration form: [registration form](https://forms.gle/VPC8UDni7dvzs82u7). As part of the registration process, participants are required to submit an abstract. The abstract should be uploaded in PDF format, following the provided .doc or .tex templates. 
+1. Conference registration should be completed through this form: [registration form](https://forms.gle/VPC8UDni7dvzs82u7). As part of the registration process, participants are required to submit an abstract. The abstract should be uploaded in PDF format, following the provided .doc or .tex templates. 
 
-2. The registration fees are as follows: €150 for regular participants and €70 for students. Invited speakers will receive a voucher to waive the conference fee. Payments can be made conveniently through this link: [registration payment](https://hi.converia.de/frontend/index.php?sub=123).
+3. Payment of the registration fee should be made through this link: [registration payment](https://hi.converia.de/frontend/index.php?sub=123). The registration fees are as follows: €150 for regular participants and €70 for students. Invited speakers will receive a voucher to waive the conference fee.
 
 
 Registration and payment of the registration fee must be completed by April 30th, 2025.
