@@ -29,7 +29,7 @@ To attend the conference, please follow the two steps outlined below:
 IMPORTANT: If you plan to give a presentation (invited talk, contributed talk or poster), please give a tentative title when you register. The abstract should be sent to [Luca Frediani](mailto:[luca.frediani@uit.no]) in PDF format, following the provided <a href="firstname-lastname.docx" download="firstname-lastname.docx" class="btn">Word</a> or <a href="firstname-lastname.tex" download="firstname-lastname.tex" class="btn">LaTeX</a>.
 
 
-Registration and payment of the registration fee must be completed by April 30th, 2025.
+Registration and payment of the registration fee must be completed by May 15th, 2025.
 
 
 
