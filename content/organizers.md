@@ -3,7 +3,7 @@ title = "Organizers"
 weight = 5
 +++
 
-For questions, please contact us at florian.bischoff++at++chemie.hu-berlin.de
+For questions, please contact us at [florian.bischoff@chemie.hu-berlin.de](mailto:florian.bischoff@chemie.hu-berlin.de)
 
 Scientific committee:
 
@@ -14,7 +14,7 @@ Scientific committee:
 Local organizing committee:
 
 * [Florian Bischoff](https://www.chemie.hu-berlin.de/en/forschung-en/theoretical-chemistry/team/ag-bischoff/team/florian-bischoff) 
-* [Raunak Farhaz](https://www.chemie.hu-berlin.de/en/forschung-en/theoretical-chemistry/team/ag-bischoff/team/raunak-farhaz)
+* [Raunak Farhaz](https://raunakfarhaz.com)
 
 <!---
 --------
