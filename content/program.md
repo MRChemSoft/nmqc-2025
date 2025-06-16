@@ -3,6 +3,6 @@ title = "Program"
 weight = 3
 +++
 
-The Book of Abstracts is available for download in PDF format at the following link <a href="firstname-lastname.docx" download="firstname-lastname.docx" class="btn">here</a>.
+The Book of Abstracts is available for download in PDF format at the following <a href="Book-of-Abstracts.pdf" download="Book-of-Abstracts.pdf" class="btn">link</a>.
 
 ![](Program_NMQC_2025_Final.png)
